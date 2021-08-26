@@ -1,0 +1,75 @@
+* {
+  margin: 10;
+  padding: 10;
+  box-sizing: border-box;
+  
+  
+}
+
+body {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 40px;
+  color: #d42424;
+}
+
+.login{
+  width: 500px;
+  height: 400px;
+  margin: auto;
+  color: black;
+}
+
+.butonBlock{
+  padding-top: 15px;
+  color: red;
+}
+
+.campos {
+  width: 100%;
+  border: 1px solid #fc0505;
+  margin-bottom:15px;
+  padding: 10px 10px;
+  background: #ffffff;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+  color: #000000;
+  top:10px; 
+  left: center;
+  font-weight: bold;
+  }
+
+
+.login p {
+      height: 40px;
+      text-align: center;
+      
+  }
+
+.login a{
+  color: white;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.botonSub{
+  cursor: pointer;
+  text-decoration: none;
+  padding: 10px;
+  font-weight: 600;
+  font-size: 16px;
+  color: #ffffff;
+  background-color: #d42424;
+  border-radius: 2px; 
+  border: 2px solid #000000;
+  justify-content:center;
+  text-align: center;
+  align-content: center;
+  position: relative;
+  top:20px; 
+  left: center;
+}
+
+
+
+
